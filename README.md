@@ -21,7 +21,7 @@ streamlit run main.py
 ---
 ## アプリの使い方
 詳しくは動画をご覧ください。
-![preview](howtouse.mp4)
+https://github.com/user-attachments/assets/12c61339-2af1-4cf8-ba77-2eccff2ab607
 
 1. 投稿文を入力する。
 2. 投稿予定の写真をファイルアップローダにアップロードする。
